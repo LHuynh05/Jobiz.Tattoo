@@ -8,7 +8,7 @@ Client tattoo website displaying their work as well as contact accessibility for
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, 
+**Tech used:** HTML, CSS, JavaScript, PHP
 
 After consulting with the client, and visualising the client's needs and wants, the site provides a smooth layout to display the clients work with a special made logo to reflec the clients personality.  I also made a little motorcycle thumbnail when the page refreshes so customize it for the client since his first love is motorcycles.
 
